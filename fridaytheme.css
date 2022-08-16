@@ -1,5 +1,5 @@
 body{
-  background-image: url("bg.png");
+  background-image: url("/content/bg.png");
   font-family: "Lucida Console", "Courier New", monospace;
 }
 .main{
